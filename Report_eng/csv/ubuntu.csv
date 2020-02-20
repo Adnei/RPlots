@@ -1,0 +1,30 @@
+#vm,#action,#event,#start_time,#finish_time,#updated_at,#result,#took_seconds
+'vm1','create','compute__do_build_and_run_instance',10,31,datetime.datetime(2019. 8. 2. 21. 29. 46),'Success',21
+'vm1','suspend','compute_suspend_instance',124,129,datetime.datetime(2019. 8. 2. 21. 31. 24),'Success',5
+'vm1','resume','compute_resume_instance',244,245,datetime.datetime(2019. 8. 2. 21. 33. 20),'Success',1
+'vm1','stop','compute_stop_instance',364,370,datetime.datetime(2019. 8. 2. 21. 35. 25),'Success',6
+'vm1','shelve','compute_shelve_instance',484,511,datetime.datetime(2019. 8. 2. 21. 37. 46),'Success',27
+#vm,#action,#event,#start_time,#finish_time,#updated_at,#result,#took_seconds
+'vm1','create','compute__do_build_and_run_instance',6,25,datetime.datetime(2019. 8. 2. 21. 39. 58),'Success',19
+'vm1','suspend','compute_suspend_instance',125,130,datetime.datetime(2019. 8. 2. 21. 41. 43),'Success',5
+'vm1','resume','compute_resume_instance',245,246,datetime.datetime(2019. 8. 2. 21. 43. 39),'Success',1
+'vm1','stop','compute_stop_instance',365,371,datetime.datetime(2019. 8. 2. 21. 45. 44),'Success',6
+'vm1','shelve','compute_shelve_instance',485,513,datetime.datetime(2019. 8. 2. 21. 48. 6),'Success',28
+#vm,#action,#event,#start_time,#finish_time,#updated_at,#result,#took_seconds
+'vm1','create','compute__do_build_and_run_instance',8,25,datetime.datetime(2019. 8. 2. 21. 50. 16),'Success',17
+'vm1','suspend','compute_suspend_instance',124,130,datetime.datetime(2019. 8. 2. 21. 52. 1),'Success',6
+'vm1','resume','compute_resume_instance',244,245,datetime.datetime(2019. 8. 2. 21. 53. 56),'Success',1
+'vm1','stop','compute_stop_instance',364,371,datetime.datetime(2019. 8. 2. 21. 56. 2),'Success',7
+'vm1','shelve','compute_shelve_instance',484,512,datetime.datetime(2019. 8. 2. 21. 58. 23),'Success',28
+#vm,#action,#event,#start_time,#finish_time,#updated_at,#result,#took_seconds
+'vm1','create','compute__do_build_and_run_instance',7,26,datetime.datetime(2019. 8. 2. 22. 0. 34),'Success',19
+'vm1','suspend','compute_suspend_instance',124,129,datetime.datetime(2019. 8. 2. 22. 2. 17),'Success',5
+'vm1','resume','compute_resume_instance',244,245,datetime.datetime(2019. 8. 2. 22. 4. 13),'Success',1
+'vm1','stop','compute_stop_instance',364,371,datetime.datetime(2019. 8. 2. 22. 6. 19),'Success',7
+'vm1','shelve','compute_shelve_instance',484,512,datetime.datetime(2019. 8. 2. 22. 8. 40),'Success',28
+#vm,#action,#event,#start_time,#finish_time,#updated_at,#result,#took_seconds
+'vm1','create','compute__do_build_and_run_instance',5,23,datetime.datetime(2019. 8. 2. 22. 10. 50),'Success',18
+'vm1','suspend','compute_suspend_instance',124,130,datetime.datetime(2019. 8. 2. 22. 12. 37),'Success',6
+'vm1','resume','compute_resume_instance',244,245,datetime.datetime(2019. 8. 2. 22. 14. 32),'Success',1
+'vm1','stop','compute_stop_instance',364,370,datetime.datetime(2019. 8. 2. 22. 16. 37),'Success',6
+'vm1','shelve','compute_shelve_instance',484,511,datetime.datetime(2019. 8. 2. 22. 18. 58),'Success',27
